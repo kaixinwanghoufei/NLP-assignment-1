@@ -2,7 +2,7 @@
  
 ## Description
 A Java program to preprocess and analyze text data.
- 
+
 ## Features
 - Clean text by removing special characters.
 - Tokenize text into sentences and words.
@@ -17,9 +17,11 @@ A Java program to preprocess and analyze text data.
   - `top10words.txt` - Contains the top 10 most frequent words and their counts.
  
 ## Instructions to Run
-1. Ensure you have Java 8 or later installed.
-2. Place the `alice29.txt` file in the project directory.
-3. Compile and run the program:
+1. Place the `alice29.txt` file in the project directory.
+2. Compile and run the program:
    ```bash
    javac TextProcessor.java
    java TextProcessor
+
+## filing
+The files are generated in the out folder and the first layer files
